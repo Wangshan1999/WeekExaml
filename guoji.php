@@ -8,7 +8,7 @@ for ($i=1; $i <=10 ; $i++) {
 		}
 		else
 		{
-			echo "<td></td>";
+			echo "<td> </td>";
 		}
 	}
 	echo "</tr>";
